@@ -16,3 +16,6 @@ Las principales tecnologías que manejo en el desarrollo de mis proyectos son:
 | React.js | |
 | Node.js | |
 | Express.js | |
+| PostgreSQL | |
+| Sequelize | |
+| GIT | |
