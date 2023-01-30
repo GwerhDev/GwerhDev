@@ -49,3 +49,4 @@ Finalmente, en el diseño audiovisual me intereso en la animación digital, mien
 | After Effects | Post-production video |
 | Rhino | 3D design |
 | Cura | 3D printing |
+| ArtCam | CNC programming |
