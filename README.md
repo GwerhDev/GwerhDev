@@ -11,11 +11,11 @@ Las principales tecnologías que manejo en el desarrollo de mis proyectos son:
 
 |  Technology   | Definition |
 | ------------- | ------------- |
-| Javascript  | Language  |
-| Python  | Language  |
-| React.js | |
-| Node.js | |
-| Express.js | |
-| PostgreSQL | |
-| Sequelize | |
-| GIT | |
+| JavaScript  | Programming Language  |
+| Python  | Programming Language |
+| React.js | Front-end JavaScript library |
+| Node.js |  Back-End JavaScript runtime environment |
+| Express.js | Back-End web application framework  |
+| PostgreSQL | Relational database management system  |
+| Sequelize | Library |
+| GIT | Distributed version control system |
