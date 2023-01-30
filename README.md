@@ -5,7 +5,7 @@ También conocido como LaloFreak en Github
 
 Soy un Programador Fullstack Web Developer, Sonidista y Diseñador orientado al contenido audiovisual
 
-# Tecnologías
+## Tecnologías
 
 Las principales tecnologías que manejo en el desarrollo de mis proyectos son:
 
