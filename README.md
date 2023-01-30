@@ -39,7 +39,7 @@ En en el área del Sonido, me especializo en la postproducción, Mezcla y Master
 
 #### Desing / Diseño
 
-Finalmente, en el diseño audiovisual e industrial manejo Rhino y Cura (diseño 3D), Adobe PhotoShop, Adobe Premiere Pro y Adobe After Effects.
+Finalmente, en el diseño audiovisual me intereso en la animación digital, mientras que en el área del diseño industrial desarrollo proyectos de impresión 3D, CNC Láser y CNC Router. Soy operador de estas máquinas con 3 años de experiencia
 
 |  Program   | Area |
 | ------------- | ------------- |
