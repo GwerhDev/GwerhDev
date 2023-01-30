@@ -16,6 +16,7 @@ Las principales tecnologías que manejo en el desarrollo de mis proyectos son:
 | React.js | Front-end JavaScript library |
 | Node.js |  Back-End JavaScript runtime environment |
 | Express.js | Back-End web application framework  |
+| Electron.js | Software framework designed to create desktop applications |
 | PostgreSQL | Relational database management system  |
 | Sequelize | Library |
 | GIT | Distributed version control system |
