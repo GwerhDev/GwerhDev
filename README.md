@@ -1,4 +1,5 @@
-![social-preview](https://user-images.githubusercontent.com/105039526/215537647-2d8d7b18-f5d1-45c1-968e-359ed6b14be8.png)
+![social-preview](https://user-images.githubusercontent.com/105039526/215601925-f93bb480-f459-4506-b6c0-073bf395f0d3.png)
+
 # Bienvenido aventurero, mi nombre es Gerardo Guarda Acosta
 
 También conocido como LaloFreak en GitHub, desarrollador y fundador de TerminalKiller Project, La Ruina Records y World of Gwerh
