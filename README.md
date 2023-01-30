@@ -24,7 +24,7 @@ Las principales tecnologías que manejo en el desarrollo de mis proyectos son:
 | Sequelize | Library |
 | GIT | Distributed version control system |
 
-A su vez, me especializo en HTML y en principalmente CSS puro y SASS.
+A su vez, me especializo en HTML y principalmente en CSS puro y SASS.
 
 #### Sound / Sonido
 
