@@ -30,12 +30,13 @@ A su vez, me especializo en HTML y en principalmente CSS puro y SASS.
 
 En en el área del Sonido, me especializo en la postproducción, Mezcla y Masterización de audio en REAPER, Cubase y ProTools.
 
-|  Process   | Examples |
-| ------------- | ------------- |
-| Equalization | FabFilter, Waves, Ozone, others |
-| Compression | FabFilter, Waves, Ozone, others |
-| Effects | Amplitube, BiasFX, FabFilter, Waves, Ozone, others|
-| Limitation | FabFilter, Waves, Ozone, others |
+|  Process   | Examples | Programs
+| ------------- | -------- | ------------- |
+| Recording | Voices, Gutiars, Bass, Drums, Keyboards | REAPER, Cubase, ProTools
+| Mixing | Equalization, Compression, Effects | Amplitube, BiasFX, FabFilter, Waves, Ozone, others |
+| Mastering | Limitation, Parallel Compression | FabFilter, Waves, Ozone, others |
+
+Poseo una Interfaz de Audio Scarlett 18i20 Focusrite y una Consola Digital de Audio Allen&Heath Qu16
 
 #### Design / Diseño
 
