@@ -1,3 +1,4 @@
+![social-preview](https://user-images.githubusercontent.com/105039526/215537647-2d8d7b18-f5d1-45c1-968e-359ed6b14be8.png)
 # Bienvenido aventurero, mi nombre es Gerardo Guarda Acosta
 También conocido como LaloFreak en Github
 
