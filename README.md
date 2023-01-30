@@ -1,4 +1,4 @@
-![social-preview](https://user-images.githubusercontent.com/105039526/215601925-f93bb480-f459-4506-b6c0-073bf395f0d3.png)
+![social-preview](https://user-images.githubusercontent.com/105039526/215606211-f3a4a389-23dc-418a-a24f-eb58bf70ab93.png)
 
 # Bienvenido aventurero, mi nombre es Gerardo Guarda Acosta
 
