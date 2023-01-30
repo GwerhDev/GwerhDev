@@ -9,7 +9,7 @@ Soy un Programador Fullstack Web Developer, Sonidista y Diseñador orientado al 
 
 Las principales tecnologías que manejo en el desarrollo de mis proyectos son:
 
-#### Web Developer
+#### Web Developer / Desarrollo Web
 
 |  Technology   | Definition |
 | ------------- | ------------- |
@@ -25,7 +25,7 @@ Las principales tecnologías que manejo en el desarrollo de mis proyectos son:
 
 A su vez, me especializo en HTML y en principalmente CSS puro y SASS.
 
-#### Sonido
+#### Sound / Sonido
 
 En en el área del Sonido, me especializo en la postproducción, Mezcla y Masterización de audio en REAPER, Cubase y ProTools.
 
@@ -36,7 +36,7 @@ En en el área del Sonido, me especializo en la postproducción, Mezcla y Master
 | Effects | Amplitube, BiasFX, FabFilter, Waves, Ozone, others|
 | Limitation | FabFilter, Waves, Ozone, others |
 
-#### Diseño
+#### Desing / Diseño
 
 Finalmente, en el diseño audiovisual e industrial manejo Rhino y Cura (diseño 3D), Adobe PhotoShop, Adobe Premiere Pro y Adobe After Effects.
 
