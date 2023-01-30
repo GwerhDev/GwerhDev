@@ -1,5 +1,5 @@
 # Bienvenido aventurero, mi nombre es Gerardo Guarda Acosta
-También conocido como en LaloFreak en Github
+También conocido como LaloFreak en Github
 
 ## Acerca de mí
 
