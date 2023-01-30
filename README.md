@@ -30,7 +30,7 @@ A su vez, me especializo en HTML y principalmente en CSS puro y SASS.
 
 En en el área del Sonido, me especializo en la postproducción, Mezcla y Masterización de audio en REAPER, Cubase y ProTools.
 
-|  Process   | Examples | Programs
+|  Process   | Examples | Programs, Plug-Ins, Virtual Instruments |
 | ------------- | -------- | ------------- |
 | Recording | Voices, Gutiars, Bass, Drums, Keyboards | REAPER, Cubase, ProTools
 | Mixing | Equalization, Compression, Effects | Amplitube, BiasFX, FabFilter, Waves, Ozone, others |
