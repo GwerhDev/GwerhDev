@@ -3,7 +3,7 @@ También conocido como LaloFreak en Github
 
 ## Acerca de mí
 
-Soy un Programador Fullstack Developer, Sonidista y Diseñador orientado al contenido audiovisual
+Soy un Programador Fullstack Web Developer, Sonidista y Diseñador orientado al contenido audiovisual
 
 # Tecnologías
 
