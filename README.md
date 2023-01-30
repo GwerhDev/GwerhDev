@@ -3,7 +3,7 @@ También conocido como LaloFreak en Github
 
 ## Acerca de mí
 
-Soy un Programador Fullstack Web Developer, Sonidista y Diseñador orientado al contenido audiovisual
+Soy un Programador Fullstack Web Developer, Sonidista y Diseñador orientado al contenido audiovisual e impresión 3D
 
 ## Tecnologías
 
@@ -29,6 +29,21 @@ A su vez, me especializo en HTML y en principalmente CSS puro y SASS.
 
 En en el área del Sonido, me especializo en la postproducción, Mezcla y Masterización de audio en REAPER, Cubase y ProTools.
 
+|  Process   | Examples |
+| ------------- | ------------- |
+| Equalization | FabFilter, Waves, Ozone, others |
+| Compression | FabFilter, Waves, Ozone, others |
+| Effects | Amplitube, BiasFX, FabFilter, Waves, Ozone, others|
+| Limitation | FabFilter, Waves, Ozone, others |
+
 #### Diseño
 
 Finalmente, en el diseño audiovisual e industrial manejo Rhino y Cura (diseño 3D), Adobe PhotoShop, Adobe Premiere Pro y Adobe After Effects.
+
+|  Program   | Area |
+| ------------- | ------------- |
+| PhotoShop | Visual design |
+| Premiere Pro | Video editing |
+| After Effects | Post-production video |
+| Rhino | 3D design |
+| Cura | 3D printing |
