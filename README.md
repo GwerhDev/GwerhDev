@@ -13,4 +13,6 @@ Las principales tecnologías que manejo en el desarrollo de mis proyectos son:
 | ------------- | ------------- |
 | Javascript  | Language  |
 | Python  | Language  |
-| NodeJs | |
+| React.js | |
+| Node.js | |
+| Express.js | |
