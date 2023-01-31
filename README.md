@@ -53,6 +53,6 @@ Finalmente, en el diseño audiovisual me intereso en la _animación digital_. Po
 | Cura          | 3D printing           |
 | ArtCam        | CNC routing           |
 
-#### Contacto
+## Contacto
 
-lalofreak.jsx@gmail.com
+Puedes contactarte conmigo mediante el mail lalofreak.jsx@gmail.com
