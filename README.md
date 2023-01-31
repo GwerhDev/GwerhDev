@@ -1,4 +1,4 @@
-![social-preview](https://user-images.githubusercontent.com/105039526/215606211-f3a4a389-23dc-418a-a24f-eb58bf70ab93.png)
+![social-preview](https://user-images.githubusercontent.com/105039526/215627920-af8476fb-2f49-46d9-93e8-463a3f889976.png)
 
 # ¡BIENVENIDOS AVENTUREROS!
 
