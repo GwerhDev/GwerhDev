@@ -2,11 +2,11 @@
 
 # ¡BIENVENIDOS AVENTUREROS!
 
-Mi nombre es Gerardo Guarda Acosta, también conocido como LaloFreak en GitHub, desarrollador y fundador de TerminalKiller Project, La Ruina Records y World of Gwerh.
+Mi nombre es **Gerardo Guarda Acosta**, también conocido como **LaloFreak** en _GitHub_, desarrollador y fundador de _TerminalKiller Project_, _La Ruina Records_ y _World of Gwerh_.
 
 ## Acerca de mí
 
-Soy un Programador Fullstack Web Developer, Sonidista y Diseñador orientado al contenido audiovisual e impresión 3D.
+Soy un _Programador Fullstack Web Developer_, _Sonidista_ y _Diseñador_ orientado al contenido audiovisual e impresión 3D.
 
 ## Tecnologías
 
@@ -26,11 +26,11 @@ Las principales tecnologías que manejo en el desarrollo de mis proyectos son:
 | Sequelize     | Library                                                    |
 | GIT           | Distributed version control system                         |
 
-A su vez, me especializo en HTML y principalmente en CSS puro y SASS.
+A su vez, me especializo en _HTML_ y principalmente en _CSS puro_ y _SASS_.
 
 #### Sound / Sonido
 
-En en el área del Sonido, me especializo en la postproducción, Mezcla y Masterización de audio en REAPER, Cubase y ProTools.
+En en el área del Sonido, me especializo en el trabajo de postproducción de _Mezcla_ y _Masterización_ de audio en _REAPER_, _Cubase_ y _ProTools_.
 
 |  Process  |                Examples                 |       Programs, Plug-Ins, Virtual Instruments      |
 | --------- | --------------------------------------- | -------------------------------------------------- |
@@ -38,11 +38,11 @@ En en el área del Sonido, me especializo en la postproducción, Mezcla y Master
 | Mixing    | Equalization, Compression, Effects      | Amplitube, BiasFX, FabFilter, Waves, Ozone, others |
 | Mastering | Limitation, Parallel Compression        | FabFilter, Waves, Ozone, others                    |
 
-Poseo una Interfaz de Audio Scarlett 18i20 Focusrite y una Consola Digital de Audio Allen&Heath Qu16
+Poseo una Interfaz de Audio _Scarlett 18i20 Focusrite_ y una Consola Digital de Audio _Allen&Heath Qu16_
 
 #### Design / Diseño
 
-Finalmente, en el diseño audiovisual me intereso en la animación digital, mientras que en el área del diseño industrial desarrollo proyectos de impresión 3D, CNC Láser y CNC Router. Soy operador de estas máquinas con 3 años de experiencia
+Finalmente, en el diseño audiovisual me intereso en la _animación digital_. Por otra parte, en el área del diseño industrial desarrollo proyectos de _impresión 3D_, _CNC Láser_ y _CNC Router_. Soy operador de estas máquinas con tres años de experiencia
 
 |    Program    |          Area         |
 | ------------- | ----------------------|
@@ -51,6 +51,8 @@ Finalmente, en el diseño audiovisual me intereso en la animación digital, mien
 | After Effects | Post-production video |
 | Rhino         | 3D design             |
 | Cura          | 3D printing           |
-| ArtCam        | CNC programming       |
+| ArtCam        | CNC routing           |
 
-#### 
+#### Contacto
+
+lalofreak.jsx@gmail.com
