@@ -6,7 +6,7 @@ Mi nombre es **Gerardo Guarda Acosta**, también conocido como **LaloFreak** en 
 
 ## Acerca de mí
 
-Soy un _Programador Fullstack Web Developer_, _Sonidista_ y _Diseñador_ orientado al contenido audiovisual e impresión 3D.
+Soy un _Programador Fullstack Web Developer_, _Sonidista_ y _Diseñador_ orientado a la postproducción de contenido audiovisual e impresión 3D.
 
 ## Tecnologías
 
