@@ -34,7 +34,7 @@ En en el área del Sonido, me especializo en el trabajo de postproducción de _M
 
 |  Process  |                Examples                 |       Programs, Plug-Ins, Virtual Instruments      |
 | --------- | --------------------------------------- | -------------------------------------------------- |
-| Recording | Voices, Gutiars, Bass, Drums, Keyboards | REAPER, Cubase, ProTools                           |
+| Recording | Vocals, Gutiars, Bass, Drums, Keyboards | REAPER, Cubase, ProTools                           |
 | Mixing    | Equalization, Compression, Effects      | Amplitube, BiasFX, FabFilter, Waves, Ozone, others |
 | Mastering | Limitation, Parallel Compression        | FabFilter, Waves, Ozone, others                    |
 
