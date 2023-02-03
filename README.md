@@ -55,4 +55,4 @@ Finalmente, en el diseño audiovisual me intereso en la _animación digital_. Po
 
 ## Contacto
 
-Puedes contactarte conmigo mediante el mail lalofreak.jsx@gmail.com
+Puedes contactarte conmigo mediante el email lalofreak.jsx@gmail.com
