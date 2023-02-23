@@ -26,7 +26,7 @@ Las principales tecnologías que manejo en el desarrollo de mis proyectos son:
 | Sequelize     | Library                                                    |
 | GIT           | Distributed version control system                         |
 
-A su vez, me especializo en _HTML_ y principalmente en _CSS puro_ y _SASS_.
+A su vez, me especializo en _HTML_ y principalmente en _CSS puro_ y _SASS_, y me encuentro estudiando Angular, TypeScript y Next.js
 
 #### Sound / Sonido
 
@@ -55,4 +55,4 @@ Finalmente, en el diseño audiovisual me intereso en la _animación digital_. Po
 
 ## Contacto
 
-Puedes contactarte conmigo mediante el email lalofreak.jsx@gmail.com
+Puedes contactarte conmigo mediante el email lalofreak.dev@gmail.com
