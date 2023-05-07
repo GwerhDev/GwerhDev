@@ -6,7 +6,7 @@ Mi nombre es **Gerardo Guarda Acosta**, también conocido como **LaloFreak** en 
 
 ## Acerca de mí
 
-Soy un _Programador Fullstack Web Developer_, _Sonidista_ y _Diseñador_ orientado a la postproducción de contenido audiovisual e impresión 3D.
+Soy un _Desarrollador Web Fullstack_, _Sonidista_ y _Diseñador_ con experiencia en la postproducción de contenido audiovisual e impresión 3D, y actualmente orientado al desarrollo e implementación de _Inteligencia Artificial_.
 
 ## Tecnologías
 
@@ -18,7 +18,10 @@ Las principales tecnologías que manejo en el desarrollo de mis proyectos son:
 | ------------- | ---------------------------------------------------------- |
 | JavaScript    | Programming Language                                       |
 | Python        | Programming Language                                       |
+| TypeScript    | Programming Language                                       |
 | React.js      | Front-end JavaScript library                               |
+| Next.js       | Front-end JavaScript library                               |
+| Angular       | Front-end JavaScript library                               |
 | Node.js       | Back-End JavaScript runtime environment                    |
 | Express.js    | Back-End web application framework                         |
 | Electron.js   | Software framework designed to create desktop applications |
@@ -26,7 +29,9 @@ Las principales tecnologías que manejo en el desarrollo de mis proyectos son:
 | Sequelize     | Library                                                    |
 | GIT           | Distributed version control system                         |
 
-A su vez, me especializo en _HTML_ y principalmente en _CSS puro_ y _SASS_, y me encuentro estudiando Angular, TypeScript y Next.js
+A su vez, me especializo en _HTML_ y principalmente en _CSS puro_, _Framer Motion_ y _SASS_.
+
+Por otra parte, soy un entusiasta de la _Artificial Intelligence_, _Machine Learning_ y _Neural Network_. Me encuentro desarrollando softwares en Python con Tensorflow, para posteriormente implementarlos en diversas aplicaciones.
 
 #### Sound / Sonido
 
