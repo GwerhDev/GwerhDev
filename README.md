@@ -2,7 +2,7 @@
 
 # ¡BIENVENIDOS AVENTUREROS!
 
-Mi nombre es **Gerardo Guarda Acosta**, también conocido como **GwerhDev** en _[GitHub](https://github.com/LaloFreak)_, desarrollador y fundador de _[TerminalKiller Project](https://www.facebook.com/terminalkiller)_, _[La Ruina Records](https://www.facebook.com/laruinarecords)_ y _[World of Gwerh](https://www.facebook.com/worldofgwerh)_.
+Mi nombre es **Gerardo Guarda Acosta**, también conocido como **GwerhDev** en _[GitHub](https://github.com/GwerhDev)_, desarrollador y fundador de _[TerminalKiller Project](https://www.facebook.com/terminalkiller)_, _[La Ruina Records](https://www.facebook.com/laruinarecords)_ y _[World of Gwerh](https://www.facebook.com/worldofgwerh)_.
 
 ## Acerca de mí
 
