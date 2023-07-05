@@ -60,4 +60,4 @@ Finalmente, en el diseño audiovisual me intereso en la _animación digital_. Po
 
 ## Contacto
 
-Puedes contactarte conmigo mediante el email lalofreak.dev@gmail.com
+Puedes contactarte conmigo mediante el email gwerh.dev@gmail.com
