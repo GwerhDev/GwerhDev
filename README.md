@@ -1,4 +1,4 @@
-![social-preview](https://github.com/GwerhDev/GwerhDev/assets/105039526/0624feb2-841b-4df9-9251-35402f88635a)
+![cabecera](https://github.com/GwerhDev/GwerhDev/assets/105039526/8bd107a9-a518-493e-a38d-01ac9f40ffc9)
 
 # ¡BIENVENIDOS AVENTUREROS!
 
