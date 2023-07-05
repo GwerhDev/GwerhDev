@@ -22,7 +22,9 @@ Las principales tecnologías que manejo en el desarrollo de mis proyectos son:
 | React.js      | Front-end JavaScript library                               |
 | Next.js       | Front-end JavaScript library                               |
 | Angular       | Front-end JavaScript library                               |
+| Three.js      | Front-end 3D JavaScript library                            |
 | Node.js       | Back-End JavaScript runtime environment                    |
+| TensorFlow    | Machine Learning and Artificial Intelligence library       |
 | Express.js    | Back-End web application framework                         |
 | Electron.js   | Software framework designed to create desktop applications |
 | PostgreSQL    | Relational database management system                      |
@@ -39,7 +41,7 @@ En en el área del Sonido, me especializo en el trabajo de postproducción de _M
 
 |  Process  |                Examples                 |       Programs, Plug-Ins, Virtual Instruments      |
 | --------- | --------------------------------------- | -------------------------------------------------- |
-| Recording | Vocals, Gutiars, Bass, Drums, Keyboards | REAPER, Cubase, ProTools                           |
+| Recording | Vocals, Guitars, Bass, Drums, Keyboards | REAPER, Cubase, ProTools                           |
 | Mixing    | Equalization, Compression, Effects      | Amplitube, BiasFX, FabFilter, Waves, Ozone, others |
 | Mastering | Limitation, Parallel Compression        | FabFilter, Waves, Ozone, others                    |
 
