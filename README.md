@@ -6,7 +6,7 @@ Mi nombre es **Gerardo Guarda Acosta**, también conocido como **GwerhDev** en _
 
 ## Acerca de mí
 
-Soy un _Desarrollador Web Fullstack_, _Sonidista_ y _Diseñador_ con experiencia en la postproducción de contenido audiovisual e impresión 3D, y actualmente orientado al desarrollo e implementación de _Inteligencia Artificial_.
+_Desarrollador Web Fullstack_, _Sonidista_ y _Diseñador_ con experiencia en la postproducción de contenido audiovisual e impresión 3D, y actualmente orientado al desarrollo e implementación de _Inteligencia Artificial_.
 
 ## Tecnologías
 
