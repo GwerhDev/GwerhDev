@@ -21,8 +21,10 @@ Las principales tecnologías que manejo en el desarrollo de mis proyectos son:
 | TypeScript    | Programming Language                                       |
 | React.js      | Front-end JavaScript library                               |
 | Next.js       | Front-end JavaScript library                               |
-| Angular       | Front-end JavaScript library                               |
+| Angular.js    | Front-end JavaScript library                               |
+| Vue.js        | Front-end JavaScript library                               |
 | Three.js      | Front-end 3D JavaScript library                            |
+| Django.py     | Web development Python library                             |
 | Node.js       | Back-End JavaScript runtime environment                    |
 | TensorFlow    | Machine Learning and Artificial Intelligence library       |
 | Express.js    | Back-End web application framework                         |
