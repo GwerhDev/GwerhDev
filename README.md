@@ -45,7 +45,7 @@ En en el área del Sonido, me especializo en el trabajo de postproducción de _M
 | --------- | --------------------------------------- | -------------------------------------------------- |
 | Recording | Vocals, Guitars, Bass, Drums, Keyboards | REAPER, Cubase, ProTools                           |
 | Mixing    | Equalization, Compression, Effects      | Amplitube, BiasFX, FabFilter, Waves, Ozone, others |
-| Mastering | Limitation, Parallel Compression        | FabFilter, Waves, Ozone, others                    |
+| Mastering | Limitation, Multiband Compression       | FabFilter, Waves, Ozone, others                    |
 
 Poseo una Interfaz de Audio _Scarlett 18i20 Focusrite_ y una Consola Digital de Audio _Allen&Heath Qu16_
 
@@ -58,7 +58,7 @@ Finalmente, en el diseño audiovisual me intereso en la _animación digital_. Po
 | PhotoShop     | Visual design         |
 | Premiere Pro  | Video editing         |
 | After Effects | Post-production video |
-| Rhino         | 3D design             |
+| Blender       | 3D design             |
 | Cura          | 3D printing           |
 | ArtCam        | CNC routing           |
 
