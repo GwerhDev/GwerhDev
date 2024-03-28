@@ -19,6 +19,7 @@ Las principales tecnologías que manejo en el desarrollo de mis proyectos son:
 | JavaScript    | Programming Language                                       |
 | Python        | Programming Language                                       |
 | TypeScript    | Programming Language                                       |
+| MatLab        | Programming Language                                       |
 | React.js      | Front-end JavaScript library                               |
 | Next.js       | Front-end JavaScript library                               |
 | Angular.js    | Front-end JavaScript library                               |
