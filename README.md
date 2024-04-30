@@ -36,7 +36,9 @@ Las principales tecnologías que manejo en el desarrollo de mis proyectos son:
 
 A su vez, me especializo en _HTML_ y principalmente en _CSS puro_, _Framer Motion_ y _SASS_.
 
-Por otra parte, soy un entusiasta de la _Artificial Intelligence_, _Machine Learning_ y _Neural Network_. Me encuentro desarrollando softwares con _Python_ y _Tensorflow_, para posteriormente implementarlos en diversas aplicaciones.
+Por otra parte, soy un entusiasta de la _Artificial Intelligence_, _Machine Learning_ y _Neural Network_ y busco implementar softwares con _Python_ y _Tensorflow_ en diversas aplicaciones.
+
+Actualmente, me encuentro estudiando Ciberseguridad de forma autodidacta, buscando complementar mis habilidades como desarrollador web, software y machine learning.
 
 #### Sound / Sonido
 
