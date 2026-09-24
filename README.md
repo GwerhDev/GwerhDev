@@ -1,5 +1,3 @@
-![cabecera](https://github.com/GwerhDev/GwerhDev/assets/105039526/e156fa67-d2bf-4c7a-a88f-636c296311a1)
-
 # ¡BIENVENIDOS AVENTUREROS!
 
 Mi nombre es **Gerardo Guarda Acosta**, también conocido como **GwerhDev** en _[GitHub](https://github.com/GwerhDev)_, desarrollador y fundador de _[NHEXA Interface](https://nhexa.cl)_.
